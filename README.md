@@ -1,5 +1,7 @@
 # Analysis of Crime and Average Rent in Vancouver Neighbourhoods
 
+For more details and to read a concise report of this analysis, visit the blog post [here](https://medium.com/@ekofrancis/analysis-of-crime-and-average-rent-in-vancouver-neighbourhoods-c8d0eb223dcd). The full report and complete Python code are available in the Jupyter Notebook and GitHub repository linked below
+
 ## Overview
 This project explores the relationship between crime rates and average rent prices across different neighbourhoods in Vancouver, aiming to provide insights into how these factors interplay and affect the city's overall livability. The analysis uses data from the Vancouver Police Department and Zumper real estate website, leveraging various Python libraries for data collection, transformation, and visualization.
 
